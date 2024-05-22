@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(115, 154, 186);
+}
+
+*{
+    box-sizing:border-box;
+}
+
+div{
+
+    height: 400px;
+    width: 400px;
+
+    border-width: 10px;
+    border-style: groove;
+    border-color: goldenrod;
+    border-radius: 26px;
+
+    background-image: url(imagem/imagem.ico.jpg);
+    text-align: center;
+    background-size:cover ;
+    
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right:10px ;
+    padding-bottom:10px ;
+
+    outline-width: 19px;
+    outline-style:inset;
+    outline-color: darkslategrey;
+
+    margin: auto;
+    margin-top: 120px;
+
+} 
+
+P{
+
+    padding-top:230px;
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(163, 120, 9);
+    font-weight: bold;
+}
